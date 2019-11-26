@@ -1,26 +1,23 @@
-# 90文字网
+# 90story 
+一个基于laravel的小说网站
 
 #### 协议
 
 本程序在遵循下列条件下,可以任意使用在任意场合:
 
-##### 第一:凡使用本站程序或本站程序的衍生品所搭建的网站,必须保留指向https://www.90text.com的友情链接
+第一:凡使用本站程序或本站程序的衍生品所搭建的网站,必须保留指向https://www.90text.com的友情链接
 
-##### 第二:本程序开源目的只提供学习和研究,任何因为使用本程序商用化而可能导致的版权问题需要使用者自行解决和承担
+第二:本程序开源目的只提供学习和研究,任何因为使用本程序商用化而可能导致的版权问题需要使用者自行解决和承担
 
-##### 第三:使用本程序衍生其他项目不得故意增加恶意程序.
+第三:使用本程序衍生其他项目不得故意增加恶意程序.
 
-##### 第四:不得使用"90文字网"或者"90小说网",或者"90电子书"为网站名字
+第四:不得使用"90文字网"或者"90小说网",或者"90电子书"为网站名字
 
 
 
 #### 程序截图
 
 ![login](https://github.com/gclinux/90story/raw/master/screenshots/admin1.jpg) 
-
-![login](https://github.com/gclinux/90story/raw/master/screenshots/front1.jpg) 
-
-![login](https://github.com/gclinux/90story/raw/master/screenshots/front2.jpg) 
 
 
 
@@ -134,7 +131,7 @@ vim .env
 
 #### 开发:
 
-目录结构:
+目录结构:(请查看源文件 github web下排版有问题)
 
 \admin #存放php 前台及后台
 |--app
