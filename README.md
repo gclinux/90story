@@ -149,6 +149,8 @@ vim .env
 \spider #存放nodejs爬虫
    |--story_src   #存放爬虫目标文件
 
+后台基于laravel-admin
+
 
 
 #### 捐赠
@@ -159,7 +161,9 @@ vim .env
 
  ![login](https://github.com/gclinux/90story/raw/master/screenshots/wechat.png) 
 
-
+#### 鸣谢
+laravel-admin https://laravel-admin.org/
+提莫淘书 https://github.com/IceInTheFire/timotaoshu
 
 
 
