@@ -1,0 +1,58 @@
+{
+  "id": "1428559",
+  "name": "90text",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "398281",
+      "name": "夜间模式",
+      "font_class": "night",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "909106",
+      "name": "i-白天",
+      "font_class": "day",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1183016",
+      "name": "我的",
+      "font_class": "my",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "1221887",
+      "name": "书本",
+      "font_class": "book",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "2127111",
+      "name": "目录",
+      "font_class": "menu",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2593666",
+      "name": "字体",
+      "font_class": "font",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "4752954",
+      "name": "眼睛检查",
+      "font_class": "keepeye",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    }
+  ]
+}
